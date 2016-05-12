@@ -1,2 +1,3 @@
-# miui_v7_evo_tech_4_replace
-Files to replace for port MultiROM MIUI. IQ4514 Quad Evo Tech 4.
+![](http://cs3-2.4pda.to/7772662.png)
+### MIUI v7 Porting Requirements
+**Device: IQ4514 Quad Evo Tech 4**
